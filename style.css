@@ -1,0 +1,14 @@
+h1, p {
+  font-family: Lato;
+}
+
+.button {
+  background-color: #008CBA; 
+  border: none;
+  color: white;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 10px;
+}
